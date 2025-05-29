@@ -10,7 +10,7 @@ class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         # Create variables for the lengths of the input words.
         A, B = len(word1), len(word2)
-        # Create variabels for the counters of a word's letters.
+        # Create variables for the counters of a word's letters.
         a, b = 0, 0
         # Store result in a list instead of appending to a string for speed.
         ans = []
