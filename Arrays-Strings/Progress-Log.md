@@ -1,5 +1,4 @@
-**Table of Contents**  
-Arrays-Strings
+**Arrays-Strings**  
   1. Find Closest Number to Zero
   2. Merge Strings Alternately
   3. Roman to Integer
