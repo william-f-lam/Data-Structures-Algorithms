@@ -1,7 +1,7 @@
 # Data-Structures-Algorithms
 
 **Table of Contents**
-- Arrays-Strings (3/11 Completed)
+- Arrays-Strings (4/11 Completed)
 - Hashmaps-Sets
 - 2-Pointers
 - Stacks
