@@ -4,7 +4,7 @@
   
 Learning Path
   - Arrays-Strings (4/11 Completed)
-  - Hashmaps-Sets
+  - Hashmaps-Sets (0/10 Completed)
   - 2-Pointers
   - Stacks
   - Linked-Lists
