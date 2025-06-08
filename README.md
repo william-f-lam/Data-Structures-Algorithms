@@ -3,7 +3,7 @@
 **Table of Contents**
   
 Learning Path
-  - Arrays-Strings (4/11 Completed)
+  - Arrays-Strings (7/11 Completed)
   - Hashmaps-Sets (0/10 Completed)
   - 2-Pointers
   - Stacks
