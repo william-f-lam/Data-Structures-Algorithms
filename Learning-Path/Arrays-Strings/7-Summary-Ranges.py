@@ -32,4 +32,4 @@ class Solution:
             ranges.append(f"{nums[leftRange]}->{nums[len(nums) - 1]}")
         return ranges
   # Time: O(n)
-  # Space: O(1)
+  # Space: O(n)
